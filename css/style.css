@@ -1,0 +1,15 @@
+.heading {
+    display: inline-block;
+    margin: 0;
+}
+.btn {
+    width: 200px;
+    height: 30px;
+    background-color: blue;
+    color: #fff;
+    border: none;
+    vertical-align: middle;
+}
+.hideMe {
+    display: none;
+}
